@@ -1,0 +1,31 @@
+{
+    "status":"0",
+    "msg":"",
+    "result":[
+        {
+            "productId":"100",
+            "productName":"音响",
+            "productPrice":"189",
+            "productImg":"1.jpg"
+        },
+        {
+            "productId":"101",
+            "productName":"空气净化器",
+            "productPrice":"1299",
+            "productImg":"8.jpg"
+        },
+        {
+            "productId":"102",
+            "productName":"耳机",
+            "productPrice":"599",
+            "productImg":"7.jpg"
+        },
+        {
+            "productId":"103",
+            "productName":"电饭煲",
+            "productPrice":"699",
+            "productImg":"9.jpg"
+        }
+    ]
+
+}
